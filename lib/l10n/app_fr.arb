@@ -1,0 +1,23 @@
+{
+  "@@locale": "fr",
+  "app_name": "Défi Environnement",
+  "aqi_very_low_des": "La qualité de l'air est considérée comme excellente et la pollution de l'air est rare",
+  "air_quality": "Qualité de l'air",
+  "aqi_low_des": "La qualité de l'air est jugée satisfaisante et la pollution de l'air pose peu ou pas de risque",
+  "aqi_mod_des": "La qualité de l'air est acceptable. Cependant, pour certains polluants, il peut y avoir un problème de santé modéré",
+  "aqi_unh_low_des": "Les membres des groupes sensibles peuvent avoir des effets sur la santé. Le grand public ne sera probablement pas affecté.",
+  "aqi_unh_des": "Tout le monde peut commencer à ressentir des effets sur la santé ; les membres de groupes sensibles peuvent avoir des effets plus graves sur la santé",
+  "aqi_unh_very_des": "Avertissements sanitaires relatifs aux conditions d'urgence. Toute la population est plus susceptible d'être touchée.",
+  "aqi_biohasard": "Alerte santé : tout le monde peut avoir des effets plus graves sur la santé",
+  "aqi_title": "Qualité de l'air en temps réel",
+  "aqi_very_low": "Très bon",
+  "aqi_low": "Bien",
+  "aqi_mod": "Modéré",
+  "aqi_unh_low": "Malsain pour les groupes sensibles",
+  "aqi_unh": "Mauvais pour la santé",
+  "aqi_unh_very": "Très malsain",
+  "aqi_hazardous": "Hasardeux",
+  "location_permission_request": "Défi Environnement collecte l'emplacement pour calculer la qualité de l'air à proximité, uniquement à l'utilisation de cette fonctionnalité",
+  "aqi_permission": "Besoin d'une permission pour accéder à un lieu afin de calculer la qualité de l'air",
+  "epi_air_quality": "Qualité de l'air"
+}

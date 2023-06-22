@@ -1,0 +1,23 @@
+{
+  "@@locale": "en",
+  "app_name": "Environment Challenge",
+  "aqi_very_low_des": "Air quality is considered great, and air pollution is rare",
+  "air_quality": "Air quality",
+  "aqi_low_des": "Air quality is considered satisfactory, and air pollution poses little or no risk",
+  "aqi_mod_des": "Air quality is acceptable; however, for some pollutants there may be a moderate health concern",
+  "aqi_unh_low_des": "Members of sensitive groups may experience health effects. The general public is not likely to be affected.",
+  "aqi_unh_des": "Everyone may begin to experience health effects; members of sensitive groups may experience more serious health effects",
+  "aqi_unh_very_des": "Health warnings of emergency conditions. The entire population is more likely to be affected.",
+  "aqi_biohasard": "Health alert: everyone may experience more serious health effects",
+  "aqi_title": "Real time Air Quality",
+  "aqi_very_low": "Very Good",
+  "aqi_low": "Good",
+  "aqi_mod": "Moderate",
+  "aqi_unh_low": "Unhealthy for Sensitive Groups",
+  "aqi_unh": "Unhealthy",
+  "aqi_unh_very": "Very Unhealthy",
+  "aqi_hazardous": "Hazardous",
+  "location_permission_request": "Environment challenge collects location to calculate Air quality nearby, only when the app is in foreground",
+  "aqi_permission": "Need permission to access location to calculate air quality",
+  "epi_air_quality": "Air quality"
+}

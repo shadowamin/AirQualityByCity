@@ -1,0 +1,23 @@
+{
+  "@@locale": "es",
+  "app_name": "Desafío ambiental",
+  "aqi_very_low_des": "La calidad del aire se considera excelente y la contaminación del aire es rara.",
+  "air_quality": "Calidad del aire",
+  "aqi_low_des": "La calidad del aire se considera satisfactoria y la contaminación del aire representa poco o ningún riesgo.",
+  "aqi_mod_des": "La calidad del aire es aceptable; sin embargo, para algunos contaminantes puede haber un problema de salud moderado",
+  "aqi_unh_low_des": "Los miembros de grupos sensibles pueden experimentar efectos en la salud. El público en general no es probable que se vea afectado.",
+  "aqi_unh_des": "Todos pueden comenzar a experimentar efectos en la salud; los miembros de grupos sensibles pueden experimentar efectos de salud más graves",
+  "aqi_unh_very_des": "Advertencias sanitarias de condiciones de emergencia. Es más probable que la población entera se vea afectada.",
+  "aqi_biohasard": "Alerta de salud: todos pueden experimentar efectos de salud más graves.",
+  "aqi_title": "Calidad del aire en tiempo real",
+  "aqi_very_low": "Muy bien",
+  "aqi_low": "Bueno",
+  "aqi_mod": "Moderar",
+  "aqi_unh_low": "No saludable para grupos sensibles",
+  "aqi_unh": "Insalubre",
+  "aqi_unh_very": "muy poco saludable",
+  "aqi_hazardous": "Peligroso",
+  "location_permission_request": "El desafío ambiental recopila la ubicación para calcular la calidad del aire cerca, solo cuando la aplicación está en primer plano",
+  "aqi_permission": "Necesita permiso para acceder a la ubicación para calcular la calidad del aire",
+  "epi_air_quality": "Calidad del aire"
+}

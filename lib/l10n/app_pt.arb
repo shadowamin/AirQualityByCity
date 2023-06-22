@@ -1,0 +1,23 @@
+{
+  "@@locale": "pt",
+  "app_name": "Desafio Ambiental",
+  "aqi_very_low_des": "A qualidade do ar é considerada ótima e a poluição do ar é rara",
+  "air_quality": "Qualidade do ar",
+  "aqi_low_des": "A qualidade do ar é considerada satisfatória e a poluição do ar representa pouco ou nenhum risco",
+  "aqi_mod_des": "A qualidade do ar é aceitável; no entanto, para alguns poluentes, pode haver um problema de saúde moderado",
+  "aqi_unh_low_des": "Membros de grupos sensíveis podem sofrer efeitos na saúde. O público em geral não é suscetível de ser afetado.",
+  "aqi_unh_des": "Todos podem começar a sentir efeitos na saúde; membros de grupos sensíveis podem sofrer efeitos mais sérios sobre a saúde",
+  "aqi_unh_very_des": "Advertências de saúde de condições de emergência. Toda a população tem mais probabilidade de ser afetada.",
+  "aqi_biohasard": "Alerta de saúde: todos podem experimentar efeitos mais graves para a saúde",
+  "aqi_title": "Qualidade do Ar em Tempo Real",
+  "aqi_very_low": "Muito bom",
+  "aqi_low": "Boa",
+  "aqi_mod": "Moderado",
+  "aqi_unh_low": "Insalubre para grupos sensíveis",
+  "aqi_unh": "Pouco saudável",
+  "aqi_unh_very": "muito prejudicial à saúde",
+  "aqi_hazardous": "Perigoso",
+  "location_permission_request": "Desafio Ambiental coleta a localização para calcular a qualidade do ar nas proximidades, somente quando o aplicativo está em primeiro plano",
+  "aqi_permission": "Precisa de permissão para acessar o local para calcular a qualidade do ar",
+  "epi_air_quality": "Qualidade do ar"
+}

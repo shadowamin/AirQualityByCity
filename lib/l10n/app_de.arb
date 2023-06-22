@@ -1,0 +1,23 @@
+{
+  "@@locale": "de",
+  "app_name": "Umwelt-Herausforderung",
+  "aqi_very_low_des": "Die Luftqualität wird als großartig angesehen, und Luftverschmutzung ist selten",
+  "air_quality": "Luftqualität",
+  "aqi_low_des": "Die Luftqualität wird als zufriedenstellend angesehen, und die Luftverschmutzung birgt nur ein geringes oder gar kein Risiko",
+  "aqi_mod_des": "Luftqualität ist akzeptabel; Für einige Schadstoffe kann es jedoch zu mäßigen gesundheitlichen Bedenken kommen",
+  "aqi_unh_low_des": "Mitglieder sensibler Gruppen können gesundheitliche Auswirkungen haben. Die breite Öffentlichkeit dürfte davon nicht betroffen sein.",
+  "aqi_unh_des": "Jeder kann beginnen, gesundheitliche Auswirkungen zu spüren. Angehörige empfindlicher Gruppen können schwerwiegendere gesundheitliche Auswirkungen haben",
+  "aqi_unh_very_des": "Gesundheitswarnungen bei Notfällen. Es ist wahrscheinlicher, dass die gesamte Bevölkerung betroffen ist.",
+  "aqi_biohasard": "Gesundheitswarnung: Jeder kann schwerwiegendere gesundheitliche Auswirkungen haben",
+  "aqi_title": "Echtzeit-Luftqualität",
+  "aqi_very_low": "Sehr gut",
+  "aqi_low": "Gut",
+  "aqi_mod": "Mäßig",
+  "aqi_unh_low": "Ungesund für sensible Gruppen",
+  "aqi_unh": "Ungesund",
+  "aqi_unh_very": "sehr ungesund",
+  "aqi_hazardous": "Gefährlich",
+  "location_permission_request": "Umwelt-Herausforderung sammelt den Standort, um die Luftqualität in der Nähe zu berechnen, nur wenn die App im Vordergrund ist",
+  "aqi_permission": "Für die Berechnung der Luftqualität ist eine Erlaubnis zum Zugriff auf den Standort erforderlich",
+  "epi_air_quality": "Luftqualität"
+}
